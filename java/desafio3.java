@@ -85,3 +85,4 @@ public class Main {
         catalog.addProduct(name, description, price);
     }
 }
+}
